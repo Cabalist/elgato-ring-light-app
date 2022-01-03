@@ -1,0 +1,4 @@
+IP_ADDRESS = "10.50.50.95"
+PORT = 9123
+
+DEBUG = False
